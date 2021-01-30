@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1
+### Creative Coding
 
-[Audio visualisation with python and p5js](/demos/)
+[Audio visualisation with python and p5js](/colab-music-feature-extraction/)
+
 <img src="images/audio_wave.png?raw=true"/>
 
 ---
