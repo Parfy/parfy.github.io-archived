@@ -12,12 +12,14 @@ The project analyses a music track to extract features such as beats and pitch. 
 
 [1]:  images/audio_wave.png
 [2]:  /colab-music-feature-extraction/ "Read more about the project"
+---
+
+#### Host streamlit apps on Github
+Streamlit's new feature allows you to run your streamlit apps from Github, no server required [See the app in action](https://share.streamlit.io/parfy/hello-world/main.py)
+
+<img src="images/streamlit.png?raw=true"/>
 
 <!--
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
