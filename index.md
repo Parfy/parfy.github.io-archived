@@ -4,7 +4,7 @@
 
 ### Category Name 1
 
-[Audio Visualisation with Pyhthon and P5js](/demos/)
+[Audio visualisation with python and p5js](/demos/)
 <img src="images/audio_wave.jpg?raw=true"/>
 
 ---
