@@ -5,7 +5,7 @@
 ### Category Name 1
 
 [Audio visualisation with python and p5js](/demos/)
-<img src="images/audio_wave.jpg?raw=true"/>
+<img src="images/audio_wave.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
