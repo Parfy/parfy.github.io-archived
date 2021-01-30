@@ -1,11 +1,11 @@
-## Portfolio
+## Projects
 
 ---
 
 ### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Audio Visualisation with Pyhthon and P5js](/demos/index.html)
+<img src="images/audio_wave.png.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
