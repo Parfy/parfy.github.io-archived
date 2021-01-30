@@ -4,16 +4,16 @@
 
 ### Creative Coding
 #### Audio visualisation with python and p5js
+The project analyses a music track to extract features such as beats and pitch. The output from the analysis is then visualised live while the track plays. [Read more...](/colab-music-feature-extraction/)
+
+[See the live demo](/demos/audio_viz/)
 
 [![Read more about the project][1]][2]
 
 [1]:  images/audio_wave.png
 [2]:  /colab-music-feature-extraction/ "Read more about the project"
-[Read more about the project](/colab-music-feature-extraction/)
 
-[See the live demo](/demos/audio_viz/)
-
-<!-- 
+<!--
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
