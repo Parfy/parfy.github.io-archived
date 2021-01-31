@@ -1,11 +1,9 @@
 title: Parf does data science and other things # your name (or website title) here
 logo: "/images/animated_gif.gif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description
+  I lead a team of data scientists @google. In my spare time I dabble in data related bits and bobs
   <br><br>
-  Second description
-  <br><br>
-#  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+ <a href="https://www.openprocessing.org/user/75404">Open Processing profile</a>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
